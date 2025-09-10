@@ -9,8 +9,10 @@
 | 🌎 HTML |
 | 🌎 CSS |
 | 🌎 JS |
+| 🌎 Java |
 | 🍏 Swift    | 
 | 🍎 SwiftUI |
 | 🍎 C++ |
 | 🍎 Basic C# |
 | 🍎 Basic C |
+
