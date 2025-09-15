@@ -3,6 +3,9 @@ Hi, I’m **@gsidh761** 👋
 🎓 Computer Science Student at **MRU**  
 💡 Passionate about programming & technology with **8+ years of coding experience**  
 
+## 🧑‍💻 Projects
+1. https://github.com/gsidh761/smart-emacs-setup 
+
 ## 🚀 Programming Experience  
 
 ### 🛠️ Languages & Frameworks  
