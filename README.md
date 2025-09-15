@@ -4,7 +4,8 @@ Hi, I’m **@gsidh761** 👋
 💡 Passionate about programming & technology with **8+ years of coding experience**  
 
 ## 🧑‍💻 Projects
-1. https://github.com/gsidh761/smart-emacs-setup 
+1. https://github.com/gsidh761/smart-emacs-setup
+2. https://github.com/gsidh761/vpn-ssh-mac
 
 ## 🚀 Programming Experience  
 
