@@ -7,6 +7,7 @@ Hi, I’m **@gsidh761** 👋
 1. https://github.com/gsidh761/smart-emacs-setup
 2. https://github.com/gsidh761/vpn-ssh-mac
 3. https://github.com/gsidh761/packman
+4. https://github.com/gsidh761/script-on-boot
 
 ## 🚀 Programming Experience  
 
